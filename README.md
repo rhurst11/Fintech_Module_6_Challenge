@@ -8,7 +8,7 @@ This project aims to employ data visualization tools, including aggregation, int
 ## Software Requirements:
 Python -- version 3.7.10, Conda -- version 4.10.3, Jupyter Lab -- version 3.0.14
 
-Libraries: Pandas, NumPy, HV Plot, Plotly Express
+Libraries: Pandas, NumPy, HV Plot, Plotly Express, Pathlib, Dotenv, 
 
 ## API Keys
 
